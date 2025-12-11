@@ -8,6 +8,8 @@
 "NO_ADS_DESC" = "Removes ads in the app";
 "BACKGROUND_PLAYBACK" = "Background playback";
 "BACKGROUND_PLAYBACK_DESC" = "Activates background playback";
+"BYPASS_REGION" = "Bypass region restrictions";
+"BYPASS_REGION_DESC" = "Access music unavailable in your country";
 "FORCE_PREMIUM" = "Force enable premium";
 "FORCE_PREMIUM_DESC" = "Forcibly enables premium features.\nThis option also disables Samples tab";
 
